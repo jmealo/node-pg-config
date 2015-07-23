@@ -1,0 +1,43 @@
+{
+  "name": "pg-config",
+  "description": "executes and parses pg_config output into a JavaScript object",
+  "version": "0.0.1",
+
+  "keywords": [
+    "pg",
+    "config",
+    "pg-config",
+    "postgresql",
+    "postgres",
+    "sql"
+  ],
+
+  "maintainers": [
+    {
+      "name": "Jeffrey Mealo",
+      "email": "jeffreymealo@gmail.com",
+      "web": "http://www.jeffreymealo.com/"
+    }
+  ],
+
+  "bugs": {
+    "web": "https://github.com/jmealo/node-pg-config/issues"
+  },
+
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/jmealo/node-pg-config.git"
+    }
+  ],
+
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "homepage": "https://github.com/jmealo/node-pg-config",
+
+  "main":"./pg-config.js"
+}
